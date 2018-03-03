@@ -1,0 +1,26 @@
+<annotation>
+	<folder>"hospital room" -"bedroom" bed ward hospital</folder>
+	<filename>234.jpg</filename>
+	<path>/Users/dschroder/Desktop/TensorFlow/images/google-images-download/"hospital room" -"bedroom" bed ward hospital/234.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hospital bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>303</ymin>
+			<xmax>818</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>
