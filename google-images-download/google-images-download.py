@@ -18,7 +18,7 @@ import urllib2
 ########### Edit From Here ###########
 
 #This list is used to search keywords. You can edit this list to search for google images of your choice. You can simply add and remove elements of the list.
-search_keyword = ['"hospital room" -"bedroom" bed ward hospital']
+search_keyword = ['happy person', 'happy person face', 'sad person', 'sad person face', 'confused person', 'confused look', 'confused face', 'angry person', 'angry face']
 
 #This list is used to further add suffix to your search term.
 #Each element of the list will help you download 100 images.
@@ -27,7 +27,7 @@ search_keyword = ['"hospital room" -"bedroom" bed ward hospital']
 #You can edit the list by adding/deleting elements from it.
 #So if the first element of the search_keyword is 'Australia'
 #and the second element of keywords is 'high resolution', then it will search for 'Australia High Resolution'
-keywords = ['large', 'empty', '800x600', '']
+keywords = ['large', 'close up', '800x600', '']
 
 ########### End of Editing ###########
 
