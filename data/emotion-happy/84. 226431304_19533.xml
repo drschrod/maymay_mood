@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-happy</folder>
+	<filename>84. 226431304_19533.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-happy/84. 226431304_19533.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>579</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>53</ymin>
+			<xmax>278</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

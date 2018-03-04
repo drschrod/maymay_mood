@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-happy</folder>
+	<filename>2. health-benefits-of-smiling-07-pg-full.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-happy/2. health-benefits-of-smiling-07-pg-full.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>56</ymin>
+			<xmax>360</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

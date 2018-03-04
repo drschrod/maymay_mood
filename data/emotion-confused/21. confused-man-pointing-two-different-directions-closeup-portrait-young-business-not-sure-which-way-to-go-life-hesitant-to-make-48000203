@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-confused</folder>
+	<filename>21. confused-man-pointing-two-different-directions-closeup-portrait-young-business-not-sure-which-way-to-go-life-hesitant-to-make-48000203.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-confused\21. confused-man-pointing-two-different-directions-closeup-portrait-young-business-not-sure-which-way-to-go-life-hesitant-to-make-48000203.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>152</ymin>
+			<xmax>468</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

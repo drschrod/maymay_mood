@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>40. Angry-Face-Donald-Trump-Funny-Face-Picture.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-angry\40. Angry-Face-Donald-Trump-Funny-Face-Picture.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>116</ymin>
+			<xmax>474</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

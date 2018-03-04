@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>79. man_sad-apha-091208.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\79. man_sad-apha-091208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>574</width>
+		<height>318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>5</ymin>
+			<xmax>418</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

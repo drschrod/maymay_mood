@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>2. n-RAGE-628x314.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-angry\2. n-RAGE-628x314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>314</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>88</ymin>
+			<xmax>318</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

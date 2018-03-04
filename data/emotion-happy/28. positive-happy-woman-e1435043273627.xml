@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-happy</folder>
+	<filename>28. positive-happy-woman-e1435043273627.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-happy/28. positive-happy-woman-e1435043273627.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>127</ymin>
+			<xmax>347</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>51. 55f81e04140000d8012e5a9b.jpeg.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\51. 55f81e04140000d8012e5a9b.jpeg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3176</width>
+		<height>4056</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>1086</ymin>
+			<xmax>1641</xmax>
+			<ymax>2436</ymax>
+		</bndbox>
+	</object>
+</annotation>

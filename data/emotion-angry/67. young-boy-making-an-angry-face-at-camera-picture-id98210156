@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>67. young-boy-making-an-angry-face-at-camera-picture-id98210156.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-angry\67. young-boy-making-an-angry-face-at-camera-picture-id98210156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>273</ymin>
+			<xmax>548</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-happy</folder>
+	<filename>10. happy-person copy.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-happy/10. happy-person copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>582</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>89</ymin>
+			<xmax>391</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

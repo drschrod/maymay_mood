@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-confused</folder>
+	<filename>18. uncertain-boss-young-man-face_1194-7951.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-confused\18. uncertain-boss-young-man-face_1194-7951.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>69</ymin>
+			<xmax>345</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

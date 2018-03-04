@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-sad</folder>
+	<filename>10. kiMKB9bKT.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\10. kiMKB9bKT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>16</ymin>
+			<xmax>396</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

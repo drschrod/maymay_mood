@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>7. worried-man-headshot-picture-id184972486.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\7. worried-man-headshot-picture-id184972486.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>98</ymin>
+			<xmax>626</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

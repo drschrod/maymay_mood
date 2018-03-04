@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>6. rccm_anger1.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-angry\6. rccm_anger1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1034</width>
+		<height>725</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>220</ymin>
+			<xmax>656</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

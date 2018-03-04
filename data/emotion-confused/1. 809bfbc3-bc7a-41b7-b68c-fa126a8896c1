@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-confused</folder>
+	<filename>1. 809bfbc3-bc7a-41b7-b68c-fa126a8896c1.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-confused\1. 809bfbc3-bc7a-41b7-b68c-fa126a8896c1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>849</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>107</ymin>
+			<xmax>549</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

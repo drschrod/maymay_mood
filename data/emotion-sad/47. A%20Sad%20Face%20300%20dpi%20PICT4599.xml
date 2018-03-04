@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>47. A%20Sad%20Face%20300%20dpi%20PICT4599.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\47. A%20Sad%20Face%20300%20dpi%20PICT4599.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>82</ymin>
+			<xmax>565</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

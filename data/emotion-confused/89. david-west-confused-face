@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-confused</folder>
+	<filename>89. david-west-confused-face.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-confused\89. david-west-confused-face.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>73</ymin>
+			<xmax>388</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

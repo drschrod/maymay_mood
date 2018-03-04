@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-sad</folder>
+	<filename>16. 7d9e907c4b1c2e8c521650bb400b303f--funny-faces-sad-faces.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\16. 7d9e907c4b1c2e8c521650bb400b303f--funny-faces-sad-faces.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>25</ymin>
+			<xmax>596</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+</annotation>

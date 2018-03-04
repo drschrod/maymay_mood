@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>45. Man-crying.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\45. Man-crying.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>74</ymin>
+			<xmax>493</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

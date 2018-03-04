@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>61. 1409331226296_Image_galleryImage_17_Jan_2013_Businessman_y.JPG</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-angry\61. 1409331226296_Image_galleryImage_17_Jan_2013_Businessman_y.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>167</ymin>
+			<xmax>390</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

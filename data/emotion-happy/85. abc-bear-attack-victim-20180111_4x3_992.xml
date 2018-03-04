@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-happy</folder>
+	<filename>85. abc-bear-attack-victim-20180111_4x3_992.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-happy/85. abc-bear-attack-victim-20180111_4x3_992.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>992</width>
+		<height>745</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>196</ymin>
+			<xmax>646</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

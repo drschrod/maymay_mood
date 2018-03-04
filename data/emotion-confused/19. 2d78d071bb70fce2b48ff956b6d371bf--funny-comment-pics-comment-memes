@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-confused</folder>
+	<filename>19. 2d78d071bb70fce2b48ff956b6d371bf--funny-comment-pics-comment-memes.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-confused\19. 2d78d071bb70fce2b48ff956b6d371bf--funny-comment-pics-comment-memes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>402</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>159</ymin>
+			<xmax>259</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

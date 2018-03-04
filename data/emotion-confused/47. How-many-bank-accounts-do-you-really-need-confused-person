@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-confused</folder>
+	<filename>47. How-many-bank-accounts-do-you-really-need-confused-person.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-confused\47. How-many-bank-accounts-do-you-really-need-confused-person.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>674</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>60</ymin>
+			<xmax>584</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

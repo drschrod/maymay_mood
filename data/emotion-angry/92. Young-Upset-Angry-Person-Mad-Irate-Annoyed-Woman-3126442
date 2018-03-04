@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>92. Young-Upset-Angry-Person-Mad-Irate-Annoyed-Woman-3126442.jpg</filename>
+	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-angry\92. Young-Upset-Angry-Person-Mad-Irate-Annoyed-Woman-3126442.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>152</ymin>
+			<xmax>487</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

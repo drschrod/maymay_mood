@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-happy</folder>
+	<filename>34. 7d0e64e360753dd00c022cea376cd51a--beautiful-smile-beautiful-people.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-happy/34. 7d0e64e360753dd00c022cea376cd51a--beautiful-smile-beautiful-people.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>152</ymin>
+			<xmax>380</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

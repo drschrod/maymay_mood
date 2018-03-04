@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-sad</folder>
+	<filename>32. im-sad-or-im-depressed-how-do-i-know-650.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\32. im-sad-or-im-depressed-how-do-i-know-650.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>314</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>99</ymin>
+			<xmax>409</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

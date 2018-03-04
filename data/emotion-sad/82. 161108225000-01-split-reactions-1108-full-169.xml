@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>82. 161108225000-01-split-reactions-1108-full-169.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\82. 161108225000-01-split-reactions-1108-full-169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>973</xmin>
+			<ymin>67</ymin>
+			<xmax>1265</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>96</ymin>
+			<xmax>572</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>
