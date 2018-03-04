@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>20. 189cde451cea4ac134a5808ff873e39e--angry-expression-face-expressions.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-angry/20. 189cde451cea4ac134a5808ff873e39e--angry-expression-face-expressions.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>23</ymin>
+			<xmax>430</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

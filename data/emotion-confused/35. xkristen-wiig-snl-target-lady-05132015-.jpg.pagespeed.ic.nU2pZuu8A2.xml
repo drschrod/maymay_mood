@@ -1,7 +1,7 @@
 <annotation>
 	<folder>emotion-confused</folder>
 	<filename>35. xkristen-wiig-snl-target-lady-05132015-.jpg.pagespeed.ic.nU2pZuu8A2.jpg</filename>
-	<path>C:\Users\John\OneDrive\Documents\maymay_mood-master\maymay_mood-master\data\emotion-confused\35. xkristen-wiig-snl-target-lady-05132015-.jpg.pagespeed.ic.nU2pZuu8A2.jpg</path>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-confused/35. xkristen-wiig-snl-target-lady-05132015-.jpg.pagespeed.ic.nU2pZuu8A2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>81</xmin>
-			<ymin>79</ymin>
-			<xmax>178</xmax>
-			<ymax>186</ymax>
+			<xmin>66</xmin>
+			<ymin>70</ymin>
+			<xmax>189</xmax>
+			<ymax>203</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>330</xmin>
-			<ymin>87</ymin>
-			<xmax>416</xmax>
-			<ymax>197</ymax>
+			<xmin>328</xmin>
+			<ymin>89</ymin>
+			<xmax>420</xmax>
+			<ymax>201</ymax>
 		</bndbox>
 	</object>
 </annotation>

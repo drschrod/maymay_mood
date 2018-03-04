@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>95. angry-man-showing-fist-20022976.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-angry/95. angry-man-showing-fist-20022976.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>623</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>108</ymin>
+			<xmax>510</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

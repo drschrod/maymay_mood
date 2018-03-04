@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>59. 01%7BA746CD44-450E-4280-972A-5F68B9500D96%7D-main-article-6190.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-angry/59. 01%7BA746CD44-450E-4280-972A-5F68B9500D96%7D-main-article-6190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>90</ymin>
+			<xmax>285</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

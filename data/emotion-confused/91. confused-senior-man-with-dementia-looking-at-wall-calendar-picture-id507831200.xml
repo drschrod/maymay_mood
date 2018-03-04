@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-confused</folder>
+	<filename>91. confused-senior-man-with-dementia-looking-at-wall-calendar-picture-id507831200.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-confused/91. confused-senior-man-with-dementia-looking-at-wall-calendar-picture-id507831200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>183</ymin>
+			<xmax>810</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

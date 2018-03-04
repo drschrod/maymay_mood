@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-confused</folder>
+	<filename>52. 50c6ddf1560a67d4f7df785c03dac7c1.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-confused/52. 50c6ddf1560a67d4f7df785c03dac7c1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>537</width>
+		<height>604</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>139</ymin>
+			<xmax>441</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

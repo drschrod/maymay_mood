@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-confused</folder>
+	<filename>82. 50383340-attractive-thoughtful-young-man-in-plaid-shirt-looking-away-over-white-background.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-confused/82. 50383340-attractive-thoughtful-young-man-in-plaid-shirt-looking-away-over-white-background.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>35</ymin>
+			<xmax>221</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

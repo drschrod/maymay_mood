@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>8. shutterstock_165211274_fbf84e0b7726f7a3363f80246789a68a.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-angry/8. shutterstock_165211274_fbf84e0b7726f7a3363f80246789a68a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>130</ymin>
+			<xmax>469</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-angry</folder>
+	<filename>68. 32016126-closeup-portrait-angry-young-woman-blowing-steam-coming-out-of-ears-having-nervous-atomic-breakdown-.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-angry/68. 32016126-closeup-portrait-angry-young-woman-blowing-steam-coming-out-of-ears-having-nervous-atomic-breakdown-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>62</ymin>
+			<xmax>274</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
