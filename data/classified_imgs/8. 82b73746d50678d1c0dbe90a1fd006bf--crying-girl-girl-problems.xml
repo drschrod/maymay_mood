@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>8. 82b73746d50678d1c0dbe90a1fd006bf--crying-girl-girl-problems.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\8. 82b73746d50678d1c0dbe90a1fd006bf--crying-girl-girl-problems.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>145</ymin>
+			<xmax>303</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

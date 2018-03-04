@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>35. ct-liberal-meltdown-kass-1117-20161116.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\35. ct-liberal-meltdown-kass-1117-20161116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1293</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>243</ymin>
+			<xmax>578</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>658</xmin>
+			<ymin>50</ymin>
+			<xmax>843</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>64. Old-Portrait-Person-Sad-Unhappy-Man-Frustration-1284515.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\64. Old-Portrait-Person-Sad-Unhappy-Man-Frustration-1284515.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>93</ymin>
+			<xmax>647</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

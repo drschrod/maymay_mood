@@ -1,0 +1,26 @@
+<annotation>
+	<folder>emotion-happy</folder>
+	<filename>51. 39d5cf97_edit_img_facebook_post_image_file_14563166_1436392800_Happy-FB.jpg</filename>
+	<path>/Users/connormccrt/Desktop/Hacklahoma/maymay_mood/data/emotion-happy/51. 39d5cf97_edit_img_facebook_post_image_file_14563166_1436392800_Happy-FB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>65</ymin>
+			<xmax>792</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

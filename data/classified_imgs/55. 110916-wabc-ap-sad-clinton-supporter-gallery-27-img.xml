@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>emotion-sad</folder>
+	<filename>55. 110916-wabc-ap-sad-clinton-supporter-gallery-27-img.jpg</filename>
+	<path>C:\Users\Jake Schroder\Documents\GitHub\maymay_mood\data\emotion-sad\55. 110916-wabc-ap-sad-clinton-supporter-gallery-27-img.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>126</ymin>
+			<xmax>903</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>49</ymin>
+			<xmax>517</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>
